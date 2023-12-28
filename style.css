@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, p {
     display:grid;
 }
 
-.card__wrapper {
+card__wrapper {
     place-items: self;
     background-color:var(--clr-card-bg);
 }
