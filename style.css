@@ -11,5 +11,18 @@
 body {
     font-family:var(--ff-sans);
     background-color:var(--clr-main-bg);
+}
+
+* {
+    margin:0;
+    padding:0;
+}
+
+img {
+    max-width: 100%;
+    display:block:
+}
+
+h1, h2, h3, h4, h5, p {
     color:var(--clr-white);
 }
