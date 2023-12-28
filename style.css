@@ -4,11 +4,12 @@
     --clr-main-bg:hsl(217, 54%, 11%);
     --clr-card-bg: hsl(216, 50%, 16%);
     --clr-line: hsl(215, 32%, 27%);
-    --clr:white:hsl(0, 0%, 100%);
+    --clr-white:hsl(0, 0%, 100%);
     --ff-sans:font-family: 'Outfit', sans-serif;
 }
 
 body {
     font-family:var(--ff-sans);
     background-color:var(--clr-main-bg);
+    color:var(--clr-white);
 }
